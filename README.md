@@ -1,2 +1,2 @@
 # PythonTutorial
-Intro to Python basics for beginners
+Intro to Python3 basics for beginners
